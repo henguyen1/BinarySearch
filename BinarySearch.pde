@@ -23,7 +23,10 @@ private Item[] store =
 };                             
 public int linearSearch(int catNumToFind)
 {
-  //complete this method
+  for(int i = 0; i < store.length; i++)
+  {
+    if(catNumtoFind==store[i].)
+  }
   return -1;
 }
 public int recursiveLinearSearch(int catNumToFind, int startIndex)
